@@ -1,3 +1,5 @@
+//user is employee
+
 package com.example.demos.entity;
 
 import jakarta.persistence.Entity;
